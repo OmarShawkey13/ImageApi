@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
-    <data Wall="https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Wall/">
-        <theme>
-            <title>LightThemeIos</title>
-            <date>18/5/2023</date>
-        </theme>
-        <theme>
-            <title>DarkThemeIos</title>
-            <date>18/5/2023</date>
-        </theme>
-        <theme>
-            <title>MoonKnight</title>
-            <date>18/5/2023</date>
-        </theme>
-        <theme>
-            <title>SpiderMan</title>
-            <date>22/10/2023</date>
-        </theme>
+    <data>
+        <image>https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Wall/image1.jpg</image>
+        <image>https://raw.githubusercontent.com/OmarShawkey13/RcTheme/main/Wall/image2.jpg</image>
     </data>
 </themes>
